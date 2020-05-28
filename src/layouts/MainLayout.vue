@@ -114,8 +114,8 @@
           <q-avatar size="56px" class="q-mb-sm">
             <img src="https://cdn.quasar.dev/img/boy-avatar.png">
           </q-avatar>
-          <div class="text-weight-bold">widade</div>
-          <div>@ouidadaziz</div>
+          <div class="text-weight-bold">Maghz</div>
+          <div>@almaghz</div>
         </div>
       </q-img>
     </q-drawer>
